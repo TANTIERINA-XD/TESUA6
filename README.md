@@ -1,5 +1,5 @@
 ```bash
-# termux-setup-storage
+$ termux-setup-storage
 
 $ pkg install python
 
