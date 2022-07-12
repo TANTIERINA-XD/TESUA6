@@ -1,31 +1,31 @@
 ```bash
-termux-setup-storage
+# termux-setup-storage
 
-pkg install python
+$ pkg install python
 
-pkg install git
+$ pkg install git
 
-pip install stdiomask
+$ pip install stdiomask
 
-pip install requests
+$ pip install requests
 
-pip install bs4
+$ pip install bs4
 
-pip install simplejson
+$ pip install simplejson
 
-pip install requests
+$ pip install requests
 
-pip install futures
+$ pip install futures
 
-pip install rich
+$ pip install rich
 
-pip install mechanize
+$ pip install mechanize
 
-git clone https://github.com/TANTIERINA-XD/TESUA6
+$ git clone https://github.com/TANTIERINA-XD/TESUA6
 
-cd TESUA6
+$ cd TESUA6
 
-git pull
+$ git pull
 
-python tesua6Update.py
+$ python tesua6Update.py
 ```
